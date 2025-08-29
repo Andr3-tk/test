@@ -405,6 +405,11 @@ body {
   }
   .footer {
     bottom: 0;
+    right: 0;
+    width: 100%;
+  }
+  .footer_icon_item {
+    margin: 0 15px;
   }
   .wrap_square_footer {
     width: 100%;
@@ -425,3 +430,5 @@ body {
     margin-right: 0;
   }
 }
+
+/*# sourceMappingURL=style.css.map */
