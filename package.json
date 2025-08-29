@@ -1,0 +1,24 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-pug-linter": "^1.5.0"
+  },
+  "devDependencies": {
+    "@babel/register": "^7.28.3",
+    "gulp": "^5.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^6.0.1",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-watch": "^5.0.1",
+    "sass": "^1.91.0"
+  },
+  "scripts": {
+    "test": "echo 0"
+  },
+  "author": "andreyyy",
+  "license": "ISC"
+}

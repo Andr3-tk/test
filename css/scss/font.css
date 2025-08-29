@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Geometria";
+  src: url("../font/Geometria-Regular.eot");
+  src: local("Geometria Regular"), local("Geometria-Regular"), url("../font/Geometria-Regular.eot?#iefix") format("embedded-opentype"), url("../font/Geometria-Regular.woff2") format("woff2"), url("../font/Geometria-Regular.woff") format("woff"), url("../font/Geometria-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Geometria-Medium";
+  src: url("../font/Geometria-Medium.eot");
+  src: local("Geometria Medium"), local("Geometria-Medium"), url("../font/Geometria-Medium.eot?#iefix") format("embedded-opentype"), url("../font/Geometria-Medium.woff2") format("woff2"), url("../font/Geometria-Medium.woff") format("woff"), url("../font/Geometria-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/*# sourceMappingURL=font.css.map */
