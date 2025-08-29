@@ -439,7 +439,29 @@ body {
     font-size: 18px;
   }
   .main_block {
-    top: 42%;
+    top: 55%;
+  }
+  .range {
+    width: 345px;
+    height: 315px;
+    background-size: 70%;
+    right: -120px;
+    top: -10px;
+  }
+  .figure_pos_3 {
+    right: 37%;
+  }
+  .figure_pos_1 {
+    top: 15%;
+  }
+  .header {
+    padding-top: 30px;
+  }
+  .clock {
+    top: 25%;
+  }
+  .main_block {
+    top: 45%;
   }
 }
 
