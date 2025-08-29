@@ -170,7 +170,16 @@
 }
 
 @media (max-width: 540px) {
-
+  .main_head {
+    font-size: 56px;
+    margin-bottom: 0;
+  }
+  .main_text {
+    font-size: 18px;
+  }
+  .main_block {
+    top: 42%;
+  }
 }
 
 @media (max-width: 420px) {
